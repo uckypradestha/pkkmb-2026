@@ -361,6 +361,7 @@ body {
 /* ===== SECTION SHARED ===== */
 .section-pengumuman,
 .section-hymne,
+.section-pedoman,
 .section-unduh {
     padding: 90px 0;
 }
@@ -376,6 +377,10 @@ body {
 
 .section-hymne {
     background: linear-gradient(180deg, #f8faff 0%, #f0f5ff 100%);
+}
+
+.section-pedoman {
+    background: #f0f5ff;
 }
 
 .section-unduh {
